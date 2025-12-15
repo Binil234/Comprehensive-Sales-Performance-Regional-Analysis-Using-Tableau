@@ -62,6 +62,7 @@ A small number of stores contribute the majority of revenue
 High stock levels do not always result in higher sales
 
 Time alone is not a strong predictor of sales performance
+Link--> https://public.tableau.com/app/profile/binil.john/viz/CapstoneProject_17658017885130/PerformanceAnalysis?publish=yes
 
 ✅ Recommendations
 
